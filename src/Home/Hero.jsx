@@ -71,7 +71,7 @@ export function Hero() {
       {/* Text Content */}
       <div className="flex flex-col justify-center text-center md:text-left max-w-lg mx-auto md:mx-0">
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-2 md:mb-4 font-monument tracking-wider">
-          Your <span className="text-black drop-shadow-sm">Collaboration</span> Partner
+          Your <span className="text-black drop-shadow-sm">Collaboration</span> Partners
         </h1>
         <p className="text-base md:text-lg text-gray-700">
           Join to collaborate, share, and showcase innovative projects across various disciplines. Explore a vast repository of community-published projects,
